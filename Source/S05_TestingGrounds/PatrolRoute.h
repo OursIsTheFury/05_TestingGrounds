@@ -18,5 +18,4 @@ public:
 private:
 	UPROPERTY(EditAnywhere, Category = "Patrol Route")
 	TArray<AActor*> PatrolPoints;
-	
 };
